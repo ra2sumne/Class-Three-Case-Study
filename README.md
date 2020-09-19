@@ -1,6 +1,6 @@
 # Apple Pay Case Study
 
-![Apple Pay](https://en.wikipedia.org/wiki/Apple_Pay#/media/File:Apple_Pay_promotional_hero.png)
+![Apple Pay](https://liftoff.io/wp-content/uploads/2015/02/Apple_Pay_logo.svg_.png)
 
 ## Beginnings of the Apple Monopoly
 
