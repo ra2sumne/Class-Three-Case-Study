@@ -1,6 +1,6 @@
 # Apple Pay Case Study
 
-[Apple Pay](https://en.wikipedia.org/wiki/Apple_Pay#/media/File:Apple_Pay_promotional_hero.png)
+![Apple Pay](https://en.wikipedia.org/wiki/Apple_Pay#/media/File:Apple_Pay_promotional_hero.png)
 
 ## Beginnings of the Apple Monopoly
 
