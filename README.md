@@ -1,6 +1,6 @@
 # Apple Pay Case Study
 
-[Apple Pay](https://www.shutterstock.com/image-photo/person-paying-cafe-smart-watch-wirelessly-1298158189)
+[Apple Pay](https://en.wikipedia.org/wiki/Apple_Pay#/media/File:Apple_Pay_promotional_hero.png)
 
 ## Beginnings of the Apple Monopoly
 
